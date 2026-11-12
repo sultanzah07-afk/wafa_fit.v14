@@ -1,0 +1,1 @@
+WAFA FIT: Unified five bottom navigation icons with matching SVG line art, improved labels and safe area spacing. Publish build: installation gate retained.

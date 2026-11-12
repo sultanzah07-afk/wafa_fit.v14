@@ -1,0 +1,1 @@
+Responsive viewport update: fixed full-viewport app shell, one safe-area padding on navigation, scrollable main region, fluid navigation button sizing. Test on actual iOS devices.

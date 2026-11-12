@@ -1,0 +1,1 @@
+R9: fixed bottom navigation anchored to viewport, safe area capped at 38px, nav background extends to bottom. Existing icon and functions preserved. iOS physical device verification still required.

@@ -1,0 +1,7 @@
+WAFA FIT - Final responsive build
+
+Upload the CONTENTS of this folder to the ROOT of your GitHub Pages published folder. Do not upload the parent folder itself. Check https://YOUR-PAGES-URL/icons/apple-touch-icon.png opens the purple WF image.
+
+On iPhone, remove the old Home Screen shortcut, open Safari (not an in-app browser), reload the published page, then Add to Home Screen again. This is needed because iOS caches the old icon. Your data may be stored separately per installation; do not delete website data if you need to preserve it.
+
+Layout fixes are based on CSS viewport/safe-area, but real device verification remains necessary.

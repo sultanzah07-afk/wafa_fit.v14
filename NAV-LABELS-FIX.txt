@@ -1,0 +1,1 @@
+Navigation labels visibility fix: 68px bar, 12px labels, 21px SVG icons. Original features retained.
